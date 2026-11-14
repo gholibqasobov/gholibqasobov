@@ -18,11 +18,11 @@
 
 ---
 
-I am a **Robotics & Physical AI Engineer at Freedom X**, the R&D lab of Freedom Holding, where I work on **embodied autonomy for last-mile delivery in urban environments**. In **November 2026 our team launched the first robot-dog deliveries in Almaty, Kazakhstan**.
+I am a **Robotics & Physical AI Engineer at Freedom X**, the R&D lab of Freedom Holding, where I work on **embodied autonomy for last-mile delivery in urban environments**. 
 
 ### 🧭 What I work on
 
-Urban sidewalks are among the hardest settings for a mobile robot: crowded, unstructured, and governed by mostly implicit rules. Our goal is a **reasoning-based vision-language-action (VLA) policy for autonomous sidewalk navigation**, a single model that perceives the scene, reasons about it, and acts on it, understanding not only *what* to do but *why*.
+Urban sidewalks are among the hardest settings for a mobile robot: crowded, unstructured, and governed by mostly implicit rules. Our goal is a **reasoning-based policy for autonomous sidewalk navigation**, a single model that perceives the scene, reasons about it, and acts on it, understanding not only *what* to do but *why*.
 
 ### ✅ So far
 
